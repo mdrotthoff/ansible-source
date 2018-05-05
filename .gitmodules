@@ -4,6 +4,6 @@
 [submodule "ansible.ansible-container"]
 	path = ansible.ansible-container
 	url = https://github.com/ansible/ansible-container.git
-[submodule "ansible.ansible-core-modules"]
-	path = ansible.ansible-core-modules
+[submodule "ansible.ansible-modules-core"]
+	path = ansible.ansible-modules-core
 	url = https://github.com/ansible/ansible-modules-core.git
