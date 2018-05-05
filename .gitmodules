@@ -7,3 +7,6 @@
 [submodule "ansible.ansible-modules-core"]
 	path = ansible.ansible-modules-core
 	url = https://github.com/ansible/ansible-modules-core.git
+[submodule "ansible.awx"]
+	path = ansible.awx
+	url = git@github.com:mdrotthoff/ansible.awx.git
