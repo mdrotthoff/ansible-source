@@ -10,3 +10,6 @@
 [submodule "ansible.awx"]
 	path = ansible.awx
 	url = git@github.com:mdrotthoff/ansible.awx.git
+[submodule "ansible.awx-logos"]
+	path = ansible.awx-logos
+	url = git@github.com:mdrotthoff/ansible.awx-logos.git
