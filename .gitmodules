@@ -13,3 +13,6 @@
 [submodule "ansible.awx-logos"]
 	path = ansible.awx-logos
 	url = git@github.com:mdrotthoff/ansible.awx-logos.git
+[submodule "ansible.ansible-modules-extras"]
+	path = ansible.ansible-modules-extras
+	url = https://github.com/ansible/ansible-modules-extras.git
