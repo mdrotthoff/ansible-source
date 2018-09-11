@@ -16,3 +16,6 @@
 [submodule "ansible.ansible-modules-extras"]
 	path = ansible.ansible-modules-extras
 	url = https://github.com/ansible/ansible-modules-extras.git
+[submodule "ansible.awx-facts-playbooks"]
+	path = ansible.awx-facts-playbooks
+	url = https://github.com/ansible/awx-facts-playbooks.git
